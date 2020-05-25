@@ -1,0 +1,65 @@
+.contanier {
+  width: 1170px;
+  margin: 0 auto;
+}
+
+.nav-list-button {
+  font-family: 'Poppins', sans-serif;
+  font-size: 18px;
+  line-height: 24px;
+  font-weight: bold;
+  color: white;
+  text-transform: capitalize;
+  text-decoration: none;
+}
+
+.clear-b {
+  clear: both;
+}
+
+.title-font1 {
+  font-family: 'Poppins', sans-serif;
+  font-size: 30px;
+  line-height: 36px;
+  font-weight: bold;
+  color: #1A1A1A;
+  text-transform: capitalize;
+}
+
+.title-font2 {
+  font-family: 'Poppins', sans-serif;
+  font-size: 48px;
+  line-height: 60px;
+  font-weight: bold;
+  color: #1A1A1A;
+  text-transform: capitalize;
+}
+
+.title-font3 {
+  font-family: 'Poppins', sans-serif;
+  font-size: 24px;
+  line-height: 32px;
+  font-weight: bold;
+  color: #1A1A1A;
+}
+
+.desc-font1 {
+  font-family: 'Poppins', sans-serif;
+  font-size: 18px;
+  line-height: 24px;
+  font-weight: 500;
+  color: #1A1A1A;
+}
+
+.button-type-1 {
+  padding: 19px 74px;
+  color: white;
+  background-color: #27AE60;
+  border-radius: 35px;
+  font-size: 24px;
+  line-height: 32px;
+  font-family: 'Poppins', sans-serif;
+  text-decoration: none;
+  outline: none;
+}
+/*# sourceMappingURL=common.css.map */
